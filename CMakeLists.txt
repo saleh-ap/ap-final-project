@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.0)
+project(ap)
+set(CMAKE_CXX_STANDARD 11)
+add_executable(app src/main.cpp src/engine.cpp src/mechanic.cpp)
+include_directories(include)

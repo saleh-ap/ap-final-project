@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/app.dir/src/main.cpp.o CMakeFiles/app.dir/src/engine.cpp.o CMakeFiles/app.dir/src/mechanic.cpp.o -o app 

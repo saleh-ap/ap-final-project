@@ -1,0 +1,3 @@
+/home/saleh/c++project/build/CMakeFiles/rebuild_cache.dir
+/home/saleh/c++project/build/CMakeFiles/app.dir
+/home/saleh/c++project/build/CMakeFiles/edit_cache.dir
